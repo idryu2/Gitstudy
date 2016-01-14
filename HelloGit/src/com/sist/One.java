@@ -1,6 +1,6 @@
-package com.sist;
+pacpackage com.sist;
 
-public class HelloGit {
+public class One {
 
 	public static void main(String[] args) {
 		
@@ -8,13 +8,7 @@ public class HelloGit {
 		System.out.println("What's git?");
 		System.out.println("For the LichKing");
 		System.out.println("For the AthorKing");
-
-		System.out.println("fdfd");
-		System.out.println("LOGIN2333");
-
-		System.out.println("LOGIN");
-		System.out.println("LOGIN");
-
+		System.out.println("·Î±×ÀÎ");
 	}
 
 }
